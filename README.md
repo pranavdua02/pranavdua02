@@ -1,30 +1,43 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pranavdua02.pranavdua02" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranav+Dua!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Pranav+Dua!;" />
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">Full-Stack Engineer | Cloud & AI Enthusiast | Building Scalable Systems That Matter</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **DevOps**
- 
- 🌱 I’m currently learning **Docker, AWS, LLMs**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/pranavdua02/pranavdua02/issues)**
+🔭 **Currently @ Searce** – Shipping production-grade features for Invoize (Order-to-Cash platform)  
+🌱 Learning **Docker, Kubernetes, AWS, LLMs & Advanced RAG systems**  
+💼 Open to opportunities in **Full-Stack, Backend, Cloud Engineering & Applied AI**  
+💬 Ask me about **Angular, Django, Node.js, React/Next.js, GCP, Stripe, RAG, or anything else** → [open an issue](https://github.com/pranavdua02/pranavdua02/issues)  
+⚡ Fun fact **I once reduced payment delays by 25% with a single dashboard**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+</div>
 
- </div>
+<br/>
+
+<div align="center">
+ 🚀 What I Bring to the Table
+
+- Production full-stack development (Angular 18 → Django → GCP) on a live fintech product used by enterprises
+- Built & shipped RAG-based multi-model chatbot with sentence transformers + vector DB
+- Designed CI/CD pipelines with GitLab + SonarQube that caught critical vulnerabilities before production
+- Migrated legacy AngularJS code to modern Angular 18 stack – cleaner, faster, maintainable
+- Integrated Stripe, SendGrid, Celery + RabbitMQ for automated payment & notification workflows
+- Automated manual access-review processes using Selenium + Pandas (saved hundreds of hours quarterly)
+- Google Cloud Certified (Digital Leader + Associate Cloud Engineer)
+
+</div>
  
 <div align="center"> 
   <a href="mailto:duapranav11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pranav-dua-023811222" target="_blank">
+  <a href="https://linkedin.com/in/pranav-dua" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://pranavduaportfolio.vercel.app" target="_blank">
