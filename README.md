@@ -76,56 +76,23 @@
   </a>
 </div>
 
- <hr/>
  
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
-<br/>
 
-### Frontend
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind,bootstrap,mui" />
-</div>
-
-### Backend
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,django,express,flask,fastapi" />
-</div>
-
-### Databases & Cloud
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,gcp,aws,docker,kubernetes" />
-</div>
-
-### Tools & Others
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,rabbitmq,selenium" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind,bootstrap,mui,nodejs,python,django,express,flask" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb,postgresql,firebase,gcp,aws,docker,kubernetes,git,github,gitlab,vscode,rabbitmq,selenium" />
 </div>
 
 <br/>
-<hr/>
 
-<!-- <h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=pranavdua02&theme=react&hide_border=false&border_radius=10" alt="streak stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranavdua02&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=10" alt="readme stats" />
-</div>
-<br/>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdua02&layout=compact&langs_count=8&theme=react&border_radius=10" alt="top langs" />
-</div>
+<h2 align="center">🏆 GitHub Profile Trophy</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pranavdua02&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="pranavdua02" />
+  </a>
+</p>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pranavdua02/pranavdua02/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div> -->
-
-<!-- <hr/> -->
-
-
