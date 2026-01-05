@@ -104,7 +104,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<!-- <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=pranavdua02&theme=react&hide_border=false&border_radius=10" alt="streak stats" />
@@ -124,8 +124,8 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pranavdua02/pranavdua02/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-</div>
+</div> -->
 
-<hr/>
+<!-- <hr/> -->
 
 
