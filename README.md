@@ -87,7 +87,7 @@
 
 <br/>
 
-<h2 align="center">🏆 GitHub Profile Trophy</h2>
+<!-- <h2 align="center">🏆 GitHub Profile Trophy</h2>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -95,4 +95,4 @@
   </a>
 </p>
 
-<br/>
+<br/> -->
