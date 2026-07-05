@@ -10,8 +10,8 @@
 
 <div align="center">
 
-🔭 **Currently @ Searce** – Shipping production-grade features for Invoize (Order-to-Cash platform)  
-🌱 Learning **Docker, Kubernetes, AWS, LLMs & Advanced RAG systems**  
+🔭 **Currently @ Intuit** – Building AI foundations that power intelligent financial experiences  
+🌱 Exploring **LLM systems, Advanced RAG, Agentic AI & MLOps at scale** 
 💼 Open to opportunities in **Full-Stack, Backend, Cloud Engineering & Applied AI**  
 💬 Ask me about **Angular, Django, Node.js, React/Next.js, GCP, Stripe, RAG, or anything else** → [open an issue](https://github.com/pranavdua02/pranavdua02/issues)  
 ⚡ Fun fact **I once reduced payment delays by 25% with a single dashboard**
