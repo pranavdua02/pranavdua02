@@ -10,11 +10,11 @@
 
 <div align="center">
 
-🔭 **Currently @ Intuit** – Building AI foundations that power intelligent financial experiences  
-🌱 Exploring **LLM systems, Advanced RAG, Agentic AI & MLOps at scale** 
+🔭 **Currently @ Intuit** – Part of the **AI Foundations** team, building intelligent systems that power financial experiences  
+🌱 Exploring **LLM systems, Advanced RAG, Agentic AI, MCP Servers & MLOps at scale**
 
 💼 Open to opportunities in **Full-Stack, Backend, Cloud Engineering & Applied AI**  
-💬 Ask me about **Angular, Django, Node.js, React/Next.js, GCP, Stripe, RAG, or anything else** → [open an issue](https://github.com/pranavdua02/pranavdua02/issues)  
+💬 Ask me about **Angular, Django, Node.js, React/Next.js, GCP, Stripe, RAG, MCP, or anything else** → [open an issue](https://github.com/pranavdua02/pranavdua02/issues)  
 ⚡ Fun fact **I once reduced payment delays by 25% with a single dashboard**
 
 </div>
@@ -37,8 +37,8 @@
 
 ### 🤖 AI & Automation
 - **RAG Systems**: Built multi-model chatbot with sentence transformers + vector DB
+- **MCP Servers**: Built custom MCP server plugins for agentic AI workflows
 - **Process Automation**: Automated access-review processes (saved 100+ hours quarterly)
-- **CI/CD Excellence**: Designed pipelines with GitLab + SonarQube catching vulnerabilities pre-production
 
 </td>
 </tr>
@@ -47,21 +47,21 @@
 
 ### ☁️ Cloud & DevOps
 - **Google Cloud Certified**: Digital Leader + Associate Cloud Engineer
-- **Infrastructure**: Experienced with GCP, Docker, Kubernetes, and AWS
-- **Monitoring**: Built dashboards that reduced payment delays by 25%
+- **Infrastructure**: Experienced with GCP, Docker, Kubernetes, Jenkins & AWS
+- **Data Pipelines**: Built real-time streaming pipelines with Kafka, Flink & Spark
 
 </td>
 <td valign="top" width="50%">
 
 ### 🔧 Technical Expertise
-- **Backend**: Django, Node.js, Express, FastAPI
+- **Backend**: Django, Node.js, Express, FastAPI, GraphQL, Java, Spring Boot
 - **Frontend**: React, Next.js, Angular 18, TypeScript
 - **Data**: PostgreSQL, MongoDB, MySQL, Pandas, Selenium
 
 </td>
 </tr>
 </table>
- 
+
 <div align="center"> 
   <a href="mailto:duapranav11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -77,23 +77,29 @@
   </a>
 </div>
 
- 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind,bootstrap,mui,nodejs,python,django,express,flask" />
+    <!-- Row 1: Frontend -->
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind,bootstrap,mui" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb,postgresql,firebase,gcp,aws,docker,kubernetes,git,github,gitlab,vscode,rabbitmq,selenium" />
+    <!-- Row 2: Backend & Languages -->
+    <img src="https://skillicons.dev/icons?i=nodejs,python,django,express,flask,fastapi,java,spring,graphql" />
+    <br/>
+    <!-- Row 3: Databases & Cloud -->
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,gcp,aws,docker,kubernetes" />
+    <br/>
+    <!-- Row 4: DevOps, Streaming & Tools -->
+    <img src="https://skillicons.dev/icons?i=jenkins,kafka,rabbitmq,git,github,gitlab,selenium,vscode" />
+    <br/><br/>
+    <!-- AI & Data -->
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" />
+    <img src="https://img.shields.io/badge/MCP%20Servers-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+
 </div>
 
 <br/>
-
-<!-- <h2 align="center">🏆 GitHub Profile Trophy</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pranavdua02&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="pranavdua02" />
-  </a>
-</p>
-
-<br/> -->
